@@ -4,7 +4,6 @@
 Description: Pattern with packages for smultron configurations
 Name: jolla-configuration-smultron
 Requires:
-- pattern:jolla-hw-adaptation-smultron
-- pattern:jolla-configuration-2011xperia
+- patterns-sailfish-device-configuration-smultron
 
 Summary: Jolla Configuration smultron

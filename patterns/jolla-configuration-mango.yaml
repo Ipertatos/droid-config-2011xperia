@@ -4,7 +4,6 @@
 Description: Pattern with packages for mango configurations
 Name: jolla-configuration-mango
 Requires:
-- pattern:jolla-hw-adaptation-mango
-- pattern:jolla-configuration-2011xperia
+- patterns-sailfish-device-configuration-mango
 
 Summary: Jolla Configuration mango

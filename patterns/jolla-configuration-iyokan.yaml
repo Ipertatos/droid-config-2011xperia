@@ -4,7 +4,6 @@
 Description: Pattern with packages for iyokan configurations
 Name: jolla-configuration-iyokan
 Requires:
-- pattern:jolla-hw-adaptation-iyokan
-- pattern:jolla-configuration-2011xperia
+- patterns-sailfish-device-configuration-iyokan
 
 Summary: Jolla Configuration iyokan

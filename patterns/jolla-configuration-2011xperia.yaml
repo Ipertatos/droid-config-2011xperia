@@ -4,9 +4,6 @@
 Description: Pattern with packages for 2011 Xperia configurations
 Name: jolla-configuration-2011xperia
 Requires:
-- pattern:jolla-sailfish-applications
-- pattern:jolla-ui-wayland
-# Early stages of porting benefit from these:
-- pattern:sailfish-porter-tools
+- patterns-sailfish-device-configuration-2011xperia
 
 Summary: Jolla Configuration 2011xperia

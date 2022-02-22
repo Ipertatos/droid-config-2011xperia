@@ -4,7 +4,6 @@
 Description: Pattern with packages for anzu configurations
 Name: jolla-configuration-anzu
 Requires:
-- pattern:jolla-hw-adaptation-anzu
-- pattern:jolla-configuration-2011xperia
+- patterns-sailfish-device-configuration-anzu
 
 Summary: Jolla Configuration anzu

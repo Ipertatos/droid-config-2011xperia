@@ -4,7 +4,6 @@
 Description: Pattern with packages for coconut configurations
 Name: jolla-configuration-coconut
 Requires:
-- pattern:jolla-hw-adaptation-coconut
-- pattern:jolla-configuration-2011xperia
+- patterns-sailfish-device-configuration-coconut
 
 Summary: Jolla Configuration coconut

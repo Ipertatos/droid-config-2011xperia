@@ -4,7 +4,6 @@
 Description: Pattern with packages for satsuma configurations
 Name: jolla-configuration-satsuma
 Requires:
-- pattern:jolla-hw-adaptation-satsuma
-- pattern:jolla-configuration-2011xperia
+- patterns-sailfish-device-configuration-satsuma
 
 Summary: Jolla Configuration satsuma

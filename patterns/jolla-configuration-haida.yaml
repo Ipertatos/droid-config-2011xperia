@@ -4,7 +4,6 @@
 Description: Pattern with packages for haida configurations
 Name: jolla-configuration-haida
 Requires:
-- pattern:jolla-hw-adaptation-haida
-- pattern:jolla-configuration-2011xperia
+- patterns-sailfish-device-configuration-haida
 
 Summary: Jolla Configuration haida

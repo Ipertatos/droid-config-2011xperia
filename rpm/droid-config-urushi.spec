@@ -18,3 +18,5 @@ Provides: ofono-configs
 Provides: sensord-configs
 
 %include droid-configs-device/droid-configs.inc
+%include patterns/patterns-sailfish-device-adaptation-urushi.inc
+%include patterns/patterns-sailfish-device-configuration-urushi.inc
